@@ -31,7 +31,7 @@ Rick Rice       | rdrice1@asu.edu  |          |
 
 The following waffle.io is our team project management task board. We will utilize this in order to ensure we efficiently prioritize tasks and meet deadlines. 
 
-[![Stories in In Progress](https://badge.waffle.io/asu-cis-capstone/awesome.svg?label=inprogress&title=In Progress)](http://waffle.io/asu-cis-capstone/awesome) [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)
+[![Stories in In Progress](https://badge.waffle.io/asu-cis-capstone/awesome.svg?label=in_progress&title=In Progress)](http://waffle.io/asu-cis-capstone/awesome) [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)
 
 [![Throughput Graph](https://graphs.waffle.io/asu-cis-capstone/awesome/throughput.svg)](https://waffle.io/asu-cis-capstone/awesome/metrics)
 
