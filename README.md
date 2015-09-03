@@ -1,8 +1,6 @@
 
 #Project Awesome
 
-<https://instagram.com/p/66qspjFeA4/?taken-by=wendycutshair>
-
 ##Overview
 
 Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wendy is looking to build a new website including a web application and integrate her current scheduling link and integrate her social media to it. 
