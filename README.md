@@ -41,3 +41,7 @@ The following waffle.io is our team project management task board. We will utili
 * Begin README.md file
 * Create waffle.io taskboard
 * Design mockups of website
+
+##Resources
+[Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts)
+>[Wendy's Instagram](https://instagram.com/wendycutshair/)
