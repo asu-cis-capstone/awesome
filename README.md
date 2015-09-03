@@ -2,7 +2,7 @@
 # awesome
 repo for team awesome
 
-Overview
+#Overview
 
 The company we selected for our capstone project is called 'Blurred Lines' owned and managed by Wendy Armenta. Wendy is a barber who has recently started her own shop in Scottsdale and is seeking assistance in growing her business. Our team approached Wendy about her new business and discussed what we can offer in IT support for her growing business. After discussing her needs, we identified several areas that she would like to begin or expand upon with her new business. 
 
