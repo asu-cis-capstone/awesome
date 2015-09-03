@@ -16,4 +16,6 @@ Establish backend data monitoring
 
 The following waffle.io is our team project management task board. We will utilize this in order to ensure we efficiently prioritize tasks and meet deadlines. 
 
+[![Throughput Graph](https://graphs.waffle.io/asu-cis-capstone/awesome/throughput.svg)](https://waffle.io/asu-cis-capstone/awesome/metrics)
+
 
