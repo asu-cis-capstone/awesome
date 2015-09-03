@@ -18,13 +18,6 @@ Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wend
 * Develop mobile site
 * Email subscription
 
-##Release Notes
-#####v0.1
-* Create project overview
-* Begin README.md file
-* Create waffle.io taskboard
-* Design mockups of website
-
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
 --------------- | ---------------- | -------- |
@@ -41,3 +34,10 @@ The following waffle.io is our team project management task board. We will utili
 [![Stories in In Progress](https://badge.waffle.io/asu-cis-capstone/awesome.svg?label=inprogress&title=In Progress)](http://waffle.io/asu-cis-capstone/awesome) [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)
 
 [![Throughput Graph](https://graphs.waffle.io/asu-cis-capstone/awesome/throughput.svg)](https://waffle.io/asu-cis-capstone/awesome/metrics)
+
+##Release Notes
+#####v0.1
+* Create project overview
+* Begin README.md file
+* Create waffle.io taskboard
+* Design mockups of website
