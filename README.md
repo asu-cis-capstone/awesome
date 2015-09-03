@@ -17,11 +17,17 @@ Social Media Integration
 Establish backend data monitoring
 
 #Project Team
+
 Brenton Koehler | blkoehle@asu.edu | blkoehle
+
 Kyle Rutledge   | kjrutled@asu.edu | 
+
 Ido Gilboa      | igilboa@asu.edu  | igilboa
+
 Sam Wagner      | swagner3@asu.edu | swagner3
+
 Rick Rice       | rdrice1@asu.edu  | 
+
 
 
 
