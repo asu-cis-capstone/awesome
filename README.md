@@ -18,6 +18,13 @@ Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wend
 * Develop mobile site
 * Email subscription
 
+##Release Notes
+#####v0.1
+* Create project overview
+* Begin README.md file
+* Create waffle.io taskboard
+* Design mockups of website
+
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
 --------------- | ---------------- | -------- |
@@ -26,14 +33,6 @@ Kyle Rutledge   | kjrutled@asu.edu |          |
 Ido Gilboa      | igilboa@asu.edu  | igilboa  |
 Sam Wagner      | swagner3@asu.edu | swagner3 |
 Rick Rice       | rdrice1@asu.edu  |          |
-
-##Release Notes
-#####v0.1
-* Create project overview
-* Begin README.md file
-* Create waffle.io taskboard
-* Design mockups of website
-
 
 ##Project Management Task Board
 
