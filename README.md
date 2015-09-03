@@ -5,13 +5,17 @@
 
 Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wendy is looking to build a new website including a web application and integrate her current scheduling link and integrate her social media to it. 
 
-As a team, we identified five crucial components to this project. 
+######We identified five crucial components to this project. 
 
-Website/Web Application
-CRM (customer relationship management)
-Tracking/Optimization
-Social Media Integration
-Establish backend data monitoring
+* Website/Web Application
+* CRM (customer relationship management)
+* Tracking/Optimization
+* Social Media Integration
+* Establish backend data monitoring
+
+######Key Tasks in our project will also include:
+* Incorporating social media into design
+* Develop mobile site
 
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
