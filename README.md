@@ -22,10 +22,10 @@ Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wend
   Member Name   |  Email Address   |  GitHub  | 
 --------------- | ---------------- | -------- |
 Brenton Koehler | blkoehle@asu.edu | blkoehle |
-Kyle Rutledge   | kjrutled@asu.edu |          |
+Kyle Rutledge   | kjrutled@asu.edu | kjrutled |
 Ido Gilboa      | igilboa@asu.edu  | igilboa  |
 Sam Wagner      | swagner3@asu.edu | swagner3 |
-Rick Rice       | rdrice1@asu.edu  |          |
+Rick Rice       | rdrice1@asu.edu  | rdrice1  |
 
 ##Project Management Task Board
 
