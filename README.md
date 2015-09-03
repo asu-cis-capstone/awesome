@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)
 # awesome
 repo for team awesome
 
