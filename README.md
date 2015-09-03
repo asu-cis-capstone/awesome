@@ -1,4 +1,4 @@
-[![Stories in Progress](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)
+[![Stories in Progress](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=in_progress&title=In_Prgress)](https://waffle.io/asu-cis-capstone/awesome)
 # awesome
 repo for team awesome
 
