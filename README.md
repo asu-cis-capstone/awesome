@@ -3,7 +3,7 @@
 
 ##Overview
 
-Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wendy is looking to build a new website including a web application and integrate her current scheduling link and integrate her social media to it. 
+Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wendy is looking to build a new website including a web application and integrate her current scheduling link, integrate her social media to it, and utilize search optimization. Wendy already has established a small customer base but would like to expand and track her customers to increase her business potential. 
 
 ######We identified five crucial components to this project. 
 
@@ -11,6 +11,7 @@ Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wend
 * CRM (customer relationship management)
 * Tracking/Optimization
 * Social Media Integration
+* Search Engine Optimization
 * Establish backend data monitoring
 
 ######Key Tasks in our project will also include:
@@ -18,18 +19,9 @@ Blurred Lines is an upcoming barbershop owned and managed by Wendy Armenta. Wend
 * Develop mobile site
 * Email subscription
 
-##Project Team
-  Member Name   |  Email Address   |  GitHub  | 
---------------- | ---------------- | -------- |
-Brenton Koehler | blkoehle@asu.edu | blkoehle |
-Kyle Rutledge   | kjrutled@asu.edu | kjrutled |
-Ido Gilboa      | igilboa@asu.edu  | igilboa  |
-Sam Wagner      | swagner3@asu.edu | swagner3 |
-Rick Rice       | rdrice1@asu.edu  | rdrice1  |
-
 ##Project Management Task Board
 
-The following waffle.io is our team project management task board. We will utilize this in order to ensure we efficiently prioritize tasks and meet deadlines. 
+The following waffle.io is our team project management task board. We will utilize this in order to ensure we efficiently prioritize tasks and meet deadlines. This will act as our tasks to do.
 
 [![Stories in Backlog](https://badge.waffle.io/asu-cis-capstone/awesome.svg?label=backlog&title=Backlog)](http://waffle.io/asu-cis-capstone/awesome)  [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/awesome.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/awesome)  [![Stories in In Progress](https://badge.waffle.io/asu-cis-capstone/awesome.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/asu-cis-capstone/awesome)      
 
@@ -44,9 +36,20 @@ The following waffle.io is our team project management task board. We will utili
 * Design mockups of website
 * Begin to develop user stories
 
+##Project Team
+  Member Name   |  Email Address   |  GitHub  | 
+--------------- | ---------------- | -------- |
+Brenton Koehler | blkoehle@asu.edu | blkoehle |
+Kyle Rutledge   | kjrutled@asu.edu | kjrutled |
+Ido Gilboa      | igilboa@asu.edu  | igilboa  |
+Sam Wagner      | swagner3@asu.edu | swagner3 |
+Rick Rice       | rdrice1@asu.edu  | rdrice1  |
+
 ##Resources
 [Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts)
 
 [Wendy's Instagram](https://instagram.com/wendycutshair/)
 
 [Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191)
+
+[GitHub Edit Help](https://help.github.com/articles/markdown-basics/)
