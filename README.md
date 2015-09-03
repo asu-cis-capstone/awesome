@@ -44,5 +44,7 @@ The following waffle.io is our team project management task board. We will utili
 
 ##Resources
 [Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts)
->[Wendy's Instagram](https://instagram.com/wendycutshair/)
->>[Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191)
+
+[Wendy's Instagram](https://instagram.com/wendycutshair/)
+
+[Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191)
