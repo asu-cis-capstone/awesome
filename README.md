@@ -37,10 +37,12 @@ The following waffle.io is our team project management task board. We will utili
 
 ##Release Notes
 #####v0.1
-* Create project overview
+* Meet w/ client to determine needs
+* Develop achievable project deliverables
 * Begin README.md file
 * Create waffle.io taskboard
 * Design mockups of website
+* Begin to develop user stories
 
 ##Resources
 [Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts)
