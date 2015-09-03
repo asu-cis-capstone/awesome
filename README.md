@@ -12,3 +12,5 @@ Social Media Integration
 Establish backend data monitoring
 
 The following waffle.io is our team project management task board. We will utilize this in order to ensure we efficiently prioritize tasks and meet deadlines. 
+
+https://waffle.io/asu-cis-capstone/awesome
