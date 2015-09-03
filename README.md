@@ -46,10 +46,10 @@ Sam Wagner      | swagner3@asu.edu | swagner3 |
 Rick Rice       | rdrice1@asu.edu  | rdrice1  |
 
 ##Resources
-[Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts){:target="_blank"}
+[Wendy's Facebook](https://www.facebook.com/Wendycutshairbarber?fref=ts)
 
-[Wendy's Instagram](https://instagram.com/wendycutshair/){:target="_blank"}
+[Wendy's Instagram](https://instagram.com/wendycutshair/)
 
-[Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191){:target="_blank"}
+[Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191)
 
-[GitHub Edit Help](https://help.github.com/articles/markdown-basics/){:target="_blank"}
+[GitHub Edit Help](https://help.github.com/articles/markdown-basics/)
