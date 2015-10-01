@@ -11,3 +11,6 @@ Our server utilizes a LAMP environment. This includes Linux, Apache, MySQL, PHP 
 * Amazon Linux Flavor
 
 Code is stored in the direcotry: var/www/html/
+Database is 'Blurred Lines' and is accessed via  phpMyAdmin
+
+Instructions to access the above are listed in the instructions.md file on GitHub
