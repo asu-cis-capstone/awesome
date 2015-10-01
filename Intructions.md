@@ -3,11 +3,12 @@
 ##Overview
 This document is intended to help the user access the several different functions of the website.
 
-###### To Access the website
+
+####To Access the website
 To access the website using: 54.172.207.252 or http://ec2-54-172-207-252.compute-1.amazonaws.com/
   - The homepage is a directory called HTML5UP-zerofour; index.html
 
-######To Access the server backend
+#####To Access the server backend
 To edit the backend of the website
   1. Request access by submitting a pull request on GitHub
   2. A public key will be sent to the user, when received change format from .txt to .pem
