@@ -62,3 +62,5 @@ Rick Rice       | rdrice1@asu.edu  | rdrice1  |
 [GitHub Edit Help](https://help.github.com/articles/markdown-basics/)
 
 [BlurredLinesBarberShop.com](http://54.172.207.252)
+
+[PHPMyAdmin](http://54.172.207.252/phpmyadmin)
