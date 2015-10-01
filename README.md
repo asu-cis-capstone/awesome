@@ -60,3 +60,5 @@ Rick Rice       | rdrice1@asu.edu  | rdrice1  |
 [Schedule Link](http://www.genbook.com/bookings/slot/reservation/30243191)
 
 [GitHub Edit Help](https://help.github.com/articles/markdown-basics/)
+
+[Link to BlurredLinesBarberShop.com](54.172.207.252)
