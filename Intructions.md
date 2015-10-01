@@ -23,7 +23,7 @@ To edit the backend of the website
 
 #####To Access PHPMyAdmin
 To manage the mySQL database
-  1. Go to [http://54.172.207.252/phpmyadmin](54.172.207.252/phpmyadmin)
+  1. Go to [http://54.172.207.252/phpmyadmin](http://54.172.207.252/phpmyadmin)
   2. Enter username and password provided
   3. Access project 'Blurred Lines' and update information contained
 
