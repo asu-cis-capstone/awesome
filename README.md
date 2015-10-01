@@ -36,6 +36,13 @@ The following waffle.io is our team project management task board. We will utili
 * Design mockups of website
 * Begin to develop user stories
 
+#####v0.2
+* Techstack Explanation
+* Established base code
+* Functioning server
+* Process flow diagram
+* Instructions for use
+
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
 --------------- | ---------------- | -------- |
