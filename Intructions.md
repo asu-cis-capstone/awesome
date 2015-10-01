@@ -5,7 +5,9 @@ This document is intended to help the user access the several different function
 
 
 #####To Access the website
-To access the website using: [Public IP 54.172.207.252](http://54.172.207.252) or [Public IP http://ec2-54-172-207-252.compute-1.amazonaws.com/](http://ec2-54-172-207-252.compute-1.amazonaws.com/)
+To access the website using: [Public IP 54.172.207.252](http://54.172.207.252) or 
+
+[Public IP http://ec2-54-172-207-252.compute-1.amazonaws.com/](http://ec2-54-172-207-252.compute-1.amazonaws.com/)
   - The homepage is a directory called HTML5UP-zerofour; index.html
 
 #####To Access the server backend
