@@ -26,7 +26,7 @@ To manage the mySQL/PHPMyAdmin database
 
 #####To Access Code - During Devlopment
 Users will be directed to edit code on GitHub
-  1. Locate code through GitHub 'awesome/html5up-zerofour/'
+  1. Locate code through GitHub 'awesome/Blurred Lines Web/'
   2. Access to HTML files will be located there
   3. CSS and Fonts are located within their respective folders
   4. Code updates should be made and then saved with description of changes and commit notes
