@@ -47,7 +47,7 @@ The following waffle.io is our team project management task board. We will utili
 * Develop Navigable Prototype
 * Obtain feedback from users & client (see feedback.md)
 * Establish core feature prototypes
-* 
+* Integration of Google AdSync
 
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
