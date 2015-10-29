@@ -23,3 +23,5 @@
  4. Login page to access backend to update content
  5. Correct Google AdSense to be responsive
  6. Work with client to develop seperate social media postings
+
+###### Primary feedback from users as well as client. Will continue to test as new features are developed and integrated.
