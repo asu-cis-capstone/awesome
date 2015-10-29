@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><!--
 	Spectral by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -13,7 +12,22 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<script type="text/javascript">
+			function hgsubmit()
+			{
+			if (/\S+/.test(document.hgmailer.name.value) == false) alert ("Please provide your name.");
+			else if (/^\S+@[a-z0-9_.-]+\.[a-z]{2,6}$/i.test(document.hgmailer.email.value) == false) alert ("A valid email address is required.");
+			else if (/\S+/.test(document.hgmailer.category.value) == false) alert ("Your email category is needed.");
+			else if (/\S+/.test(document.hgmailer.message.value) == false) alert ("Your email message is needed.");
+			else if (demo.checked == false) {
+				alert("You must check that you are not a robot!"); }
+			  else {
+			       document.hgmailer.submit();
+			       }
+			}
+		</script>
 	</head>
+
 	<body>
 
 		<!-- Page Wrapper -->
@@ -50,73 +64,63 @@
 						<section class="wrapper style5">
 							<div class="inner">
 
-
-				<section>
-					<hr />
-									<h4>Message Me</h4>
-									<form method="post" action="#">
-										<div class="row uniform">
-											<div class="6u 12u$(xsmall)">
-												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-											</div>
-											<div class="6u$ 12u$(xsmall)">
-												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-											</div>
-											<div class="12u$">
-												<div class="select-wrapper">
-													<select name="demo-category" id="demo-category">
-														<option value="">- Category -</option>
-														<option value="1">Job Opportunities</option>
-														<option value="1">Products</option>
-														<option value="1">Lessons & Mentorship</option>
-														<option value="1">Appointment Questions</option>
-														<option value="1">Web Issues</option>
-													</select>
-												</div>
-											</div>
-											<div class="4u 12u$(small)">
-												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-												<label for="demo-priority-low">Low</label>
-											</div>
-											<div class="4u 12u$(small)">
-												<input type="radio" id="demo-priority-normal" name="demo-priority">
-												<label for="demo-priority-normal">Normal</label>
-											</div>
-											<div class="4u$ 12u$(small)">
-												<input type="radio" id="demo-priority-high" name="demo-priority">
-												<label for="demo-priority-high">High</label>
-											</div>
-											<div class="6u 12u$(small)">
-												<input type="checkbox" id="demo-copy" name="demo-copy">
-												<label for="demo-copy">Email me a copy</label>
-											</div>
-											<div class="6u$ 12u$(small)">
-												<input type="checkbox" id="demo-human" name="demo-human" checked>
-												<label for="demo-human">Not a robot</label>
-											</div>
-											<div class="12u$">
-												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-											</div>
-											<div class="12u$">
-												<ul class="actions">
-													<li><input type="submit" value="Send Message" class="special" /></li>
-													<li><input type="reset" value="Reset" /></li>
-												</ul>
-											</div>
+						<section>
+							<h4>Message Me</h4>
+							<form action="http://www.blurredlinesbarbershop.com/cgi-sys/formmail.pl" method="post" name="hgmailer">
+							<input type="hidden" name="recipient" value="wendy@blurredlinesbarbershop.com">
+							<input type="hidden" name="subject" value="Blurred Lines Web Contact">
+								<div class="row uniform">
+									<div class="6u 12u$(xsmall)">
+										<input type="text" name="name" id="name" size="30" value="" placeholder="Name" 
+										autofocus/>
+									</div>
+									<div class="6u$ 12u$(xsmall)">
+										<input type="email" name="email" id="email" size="30" value="" placeholder="Email" 
+										onfocus="#"/>
+									</div>
+									<div class="12u$">
+										<div class="select-wrapper">
+											<select name="category" id="category">
+												<option value="">- Category -</option>
+												<option value="Job Opportunities">Job Opportunities</option>
+												<option value="Products">Products</option>
+												<option value="Lessons">Lessons & Mentorship</option>
+												<option value="Appointment Questions">Appointment Questions</option>
+												<option value="Web Issues">Web Issues</option>
+												<option value="Other">Other</option>
+											</select>
 										</div>
-									</form>
-								</section>	
-					<hr />			
+									</div>
+									<div class="6u$ 12u$(small)">
+										<input type="checkbox" id="demo" name="demo">
+										<label for="demo">Not a robot</label>
+									</div>
+									<div class="12u$">
+										<textarea name="message" id="message" placeholder="Enter your message" rows="6" autofocus></textarea>
+									</div>
+									<div class="12u$">
+										<ul class="actions">
+											<li><input type="button" value="Send Message" class="special" onclick="hgsubmit();" /></li>
+											<li><input type="reset" value="Reset" onclick="history.go(0)" /></li>
+										</ul>
+									</div>
+								</div>
+								<input type="hidden" name="redirect" value="http://blurredlinesbarbershop.com/sentmessage.html" />
+							</form>
+						</section>	
+						<!-- hr is section break line -->
+						<hr />			
+				
 				<!-- Contact -->
 					<section>
 						<h2>Get in touch</h2>
 						<div>
 							<div class="row">
 								<div class="6u 12u(mobile)">
-										<p><b>Appointments</b> |<a target="_blank" href="http://wendycutshair.genbook.com/"> @ Genbook</a></p>
+										<p><b>Appointments</b> |<a target="_blank" href="http://wendycutshair.genbook.com/"> @Genbook</a></p>
 										<p><b>Instagram</b> |<a target="_blank" href="https://instagram.com/wendycutshair/"> @WendyCutsHair</a></p>
 										<p><b>Facebook</b> |<a target="_blank" href="https://www.facebook.com/Wendycutshairbarber/timeline"> /WendyCutsHairBarber</a></p>
-										<b>Email</b> |<a target="_blank" href="#"> email@email.com</a>
+										<b>Email</b> |<a target="_blank" onclick=window.scrollTo(0,420);> wendy@blurredlinesbarbershop.com</a>
 								</div>
 								<div class="6u 12u(mobile)">
 									<dl class="contact">
@@ -144,7 +148,7 @@
 							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a target="_blank" href="https://www.facebook.com/Wendycutshairbarber/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 							<li><a target="_blank" href="https://instagram.com/wendycutshair/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							<li><a href="contact.html" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 						</ul>
 						<ul class="copyright">
 							<li>&copy; Blurred Lines</li><li>Design: <a target="_blank" href="http://html5up.net">HTML5 UP</a></li>
@@ -161,6 +165,17 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+<!-- aadds -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Footer Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4525060587793606"
+     data-ad-slot="5934499779"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 	</body>
 </html>
