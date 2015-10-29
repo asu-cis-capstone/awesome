@@ -22,3 +22,4 @@
  3. Work on creating a financial dashboard
  4. Login page to access backend to update content
  5. Correct Google AdSense to be responsive
+ 6. Work with client to develop seperate social media postings
