@@ -5,7 +5,7 @@
  2. Client wanted an "Events Page" and functions
  3. Likes the look and feel of the website as well as navigation of pages
  4. REALLY likes the several book now features in the page
- 5. Is AdWords possible?
+ 5. Is Google AdWords possible?
  6. Subscription for possible mentees to sign-up
  
 ####User Feedback
@@ -21,4 +21,4 @@
  2. Content managmenet / backend needs to be developed
  3. Work on creating a financial dashboard
  4. Login page to access backend to update content
- 5. Correct GoogleAdsense to be responsive
+ 5. Correct Google AdSense to be responsive
