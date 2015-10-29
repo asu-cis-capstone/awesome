@@ -49,7 +49,7 @@ The following waffle.io is our team project management task board. We will utili
 * Establish core feature prototypes
     * Email Form
     * Event Page
-* Integration of Google AdSync
+* Integration of Google AdSense
 
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
