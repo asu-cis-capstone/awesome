@@ -24,4 +24,4 @@
  5. Correct Google AdSense to be responsive
  6. Work with client to develop seperate social media postings
 
-###### Primary feedback from users as well as client. Will continue to test as new features are developed and integrated.
+###### Primary feedback from users as well as client. Content will continue to be tested as new features are developed and integrated into the web. Currently, this will continue with the development of the new events page and features that accompany it.
