@@ -60,6 +60,7 @@ The following waffle.io is our team project management task board. We will utili
    * Login Page
    * Report template with email notification
    * Minior bug and estatic changes
+* Clean & Organize document files
 
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
