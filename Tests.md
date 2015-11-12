@@ -1,7 +1,7 @@
 #Testing Plan
 
 ##Overview
-This document contains a testing plan for validation of the website features, including some verification. 
+This document contains a testing plan for validation of the website features, including some verification. The purpose is to identify software bugs and inefficiencies through user testing and the development of simplistic documentation for the client.
 
 #####Validation
 The plan for validation will ensure that the website and user functions operate properly and efficiently.
