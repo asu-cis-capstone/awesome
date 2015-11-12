@@ -52,9 +52,9 @@ The following waffle.io is our team project management task board. We will utili
 * Integration of Google AdSense
 
 #####v0.4
-* Completed file directory with corisponding webpages
+* Completed file directory with corresponding webpages
 * Created backend visualization
-* Created data entry forms
+* Complete data entry forms
 * Finalized client database
 * Need to be completed:
    * Login Page
