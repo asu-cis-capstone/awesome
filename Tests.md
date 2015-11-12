@@ -12,3 +12,4 @@ The plan for validation will ensure that the website and user functions operate 
 * All bugs or inefficiencies will be identified and resolved
 * Establish a "user manual" for completion of the semester
     * This will be tested with the client for efficiency and ease of use
+* Test validation of user input
