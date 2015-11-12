@@ -51,6 +51,16 @@ The following waffle.io is our team project management task board. We will utili
     * Event Page
 * Integration of Google AdSense
 
+#####v0.4
+* Completed file directory with corisponding webpages
+* Created backend visualization
+* Created data entry forms
+* Finalized client database
+* Need to be completed:
+   * Login Page
+   * Report template with email notification
+   * Minior bug and estatic changes
+
 ##Project Team
   Member Name   |  Email Address   |  GitHub  | 
 --------------- | ---------------- | -------- |
