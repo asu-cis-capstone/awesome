@@ -59,7 +59,7 @@ The following waffle.io is our team project management task board. We will utili
 * Need to be completed:
    * Login Page
    * Report template with email notification
-   * Minior bug and estatic changes
+   * Minior bug and aesthetic changes
 * Clean & Organize document files
 
 ##Project Team
